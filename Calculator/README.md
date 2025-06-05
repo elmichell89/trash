@@ -1,4 +1,4 @@
-#descripción / description
+# descripción / description
 
 calculadora básica en la consola, lo primero que hice en java sólo y solamente por el gusto de programar xd
 /
